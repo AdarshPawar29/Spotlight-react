@@ -3,13 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@spscommerce/colors": "1.18.0",
+    "@spscommerce/ds-colors": "1.2.5",
+    "@spscommerce/ds-react": "1.2.5",
+    "@spscommerce/ds-shared": "1.2.5",
+    "@spscommerce/ds-styles": "1.2.5",
+    "@spscommerce/ds-web-components": "1.2.5",
+    "@spscommerce/positioning": "1.2.5",
+    "@spscommerce/ui-react": "5.13.0",
+    "@spscommerce/utils": "1.2.5",
+    "@stoplight/elements-dev-portal": "^1.4.4",
+    "@svgr/webpack": "2.4.1",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
